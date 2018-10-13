@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+}
+
+.grid-container {
+  display: flex;
+  justify-content: center;
+  align-self: center
+}
+
+button {
+  margin: 10px;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 32px;
+  border: none;
+  border-radius: 10px;
+}
+
+.buttonOne {
+  background-color: red;
+}
+
+.buttonTwo {
+  background-color: blue;
+}
+
+.buttonThree {
+  background-color: yellow;
+}
+
+.buttonFour {
+  background-color: green;
+}
